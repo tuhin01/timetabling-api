@@ -1,0 +1,960 @@
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-26T05:21:33.306Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-26T05:21:33.329Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-26T12:32:23.352Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-26T12:32:23.363Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-27T09:10:57.512Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-27T09:10:57.527Z"}
+{"message":"SubjectRequirement validation failed: color: Path `color` is required.","errors":{"color":{"message":"Path `color` is required.","name":"ValidatorError","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"}},"_message":"SubjectRequirement validation failed","stack":"ValidationError: SubjectRequirement validation failed: color: Path `color` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-27T09:11:55.247Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-27T09:13:24.996Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-27T09:13:25.010Z"}
+{"message":"SubjectRequirement validation failed: color: Path `color` is required.","errors":{"color":{"message":"Path `color` is required.","name":"ValidatorError","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"}},"_message":"SubjectRequirement validation failed","stack":"ValidationError: SubjectRequirement validation failed: color: Path `color` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-27T09:13:29.809Z"}
+{"message":"SubjectRequirement validation failed: color: Path `color` is required.","errors":{"color":{"message":"Path `color` is required.","name":"ValidatorError","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"}},"_message":"SubjectRequirement validation failed","stack":"ValidationError: SubjectRequirement validation failed: color: Path `color` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-27T09:14:00.055Z"}
+{"message":"SubjectRequirement validation failed: color: Path `color` is required.","errors":{"color":{"message":"Path `color` is required.","name":"ValidatorError","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"}},"_message":"SubjectRequirement validation failed","stack":"ValidationError: SubjectRequirement validation failed: color: Path `color` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-27T09:15:32.701Z"}
+{"message":"SubjectRequirement validation failed: color: Path `color` is required.","errors":{"color":{"message":"Path `color` is required.","name":"ValidatorError","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"}},"_message":"SubjectRequirement validation failed","stack":"ValidationError: SubjectRequirement validation failed: color: Path `color` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-27T09:15:37.598Z"}
+{"message":"SubjectRequirement validation failed: color: Path `color` is required.","errors":{"color":{"message":"Path `color` is required.","name":"ValidatorError","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"}},"_message":"SubjectRequirement validation failed","stack":"ValidationError: SubjectRequirement validation failed: color: Path `color` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-27T09:17:17.187Z"}
+{"message":"SubjectRequirement validation failed: color: Path `color` is required.","errors":{"color":{"message":"Path `color` is required.","name":"ValidatorError","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"}},"_message":"SubjectRequirement validation failed","stack":"ValidationError: SubjectRequirement validation failed: color: Path `color` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-27T09:23:44.948Z"}
+{"message":"SubjectRequirement validation failed: color: Path `color` is required.","errors":{"color":{"message":"Path `color` is required.","name":"ValidatorError","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"}},"_message":"SubjectRequirement validation failed","stack":"ValidationError: SubjectRequirement validation failed: color: Path `color` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-27T09:23:57.164Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-27T09:24:27.360Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-27T09:24:27.375Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-27T09:25:13.814Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-27T09:25:13.826Z"}
+{"message":"SubjectRequirement validation failed: color: Path `color` is required.","errors":{"color":{"message":"Path `color` is required.","name":"ValidatorError","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"}},"_message":"SubjectRequirement validation failed","stack":"ValidationError: SubjectRequirement validation failed: color: Path `color` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-27T09:25:18.979Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-27T09:26:56.631Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-27T09:26:56.643Z"}
+{"message":"SubjectRequirement validation failed: color: Path `color` is required.","errors":{"color":{"message":"Path `color` is required.","name":"ValidatorError","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"}},"_message":"SubjectRequirement validation failed","stack":"ValidationError: SubjectRequirement validation failed: color: Path `color` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-27T09:27:00.581Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-27T09:28:25.409Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-27T09:28:25.424Z"}
+{"message":"SubjectRequirement validation failed: color: Path `color` is required.","errors":{"color":{"message":"Path `color` is required.","name":"ValidatorError","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"}},"_message":"SubjectRequirement validation failed","stack":"ValidationError: SubjectRequirement validation failed: color: Path `color` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-27T09:28:28.283Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-27T09:29:10.172Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-27T09:29:10.186Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-27T09:45:09.825Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-27T09:45:09.838Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-28T09:36:46.199Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-28T09:36:46.216Z"}
+{"message":"Timetable validation failed: sections.0.endTimeKey: Path `endTimeKey` is required., sections.0.startTimeKey: Path `startTimeKey` is required.","errors":{"sections.0.endTimeKey":{"message":"Path `endTimeKey` is required.","name":"ValidatorError","properties":{"message":"Path `endTimeKey` is required.","type":"required","path":"endTimeKey"},"kind":"required","path":"endTimeKey"},"sections.0.startTimeKey":{"message":"Path `startTimeKey` is required.","name":"ValidatorError","properties":{"message":"Path `startTimeKey` is required.","type":"required","path":"startTimeKey"},"kind":"required","path":"startTimeKey"}},"_message":"Timetable validation failed","stack":"ValidationError: Timetable validation failed: sections.0.endTimeKey: Path `endTimeKey` is required., sections.0.startTimeKey: Path `startTimeKey` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at EmbeddedDocument.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/types/embedded.js:291:29)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-05-28T09:37:36.356Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:09:24.051Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:09:24.065Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:30:08.340Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:30:08.352Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:32:23.343Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:32:23.356Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:33:54.506Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:33:54.518Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:48:43.462Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:48:43.477Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:49:43.792Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:49:43.807Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:51:06.202Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:51:06.216Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:54:16.025Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:54:16.039Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:56:23.685Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:56:23.697Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:56:59.001Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:56:59.012Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:57:37.488Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:57:37.500Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T11:58:23.321Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T11:58:23.335Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:01:24.604Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:01:24.617Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:11:20.003Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:11:20.018Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:28:32.154Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:28:32.170Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:29:24.361Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:29:24.373Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:32:38.297Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:32:38.309Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:33:38.768Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:33:38.781Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:34:12.104Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:34:12.116Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:36:32.819Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:36:32.832Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:45:23.652Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:45:23.664Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:46:46.194Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:46:46.207Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:47:33.544Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:47:33.555Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T12:48:22.684Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T12:48:22.696Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T13:06:31.415Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T13:06:31.431Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T13:07:40.296Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T13:07:40.307Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T13:10:26.380Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T13:10:26.391Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T13:55:42.371Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T13:55:42.386Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T13:56:39.806Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T13:56:39.817Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T14:00:10.110Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T14:00:10.124Z"}
+{"message":"duplicateL1InL1.$where is not a function","stack":"TypeError: duplicateL1InL1.$where is not a function\n    at validateSectionsInDB (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:272:29)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:144:28","level":"error","timestamp":"2020-05-29T14:00:15.504Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T14:01:12.398Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T14:01:12.410Z"}
+{"message":"duplicateL1InL1.setOptions is not a function","stack":"TypeError: duplicateL1InL1.setOptions is not a function\n    at validateSectionsInDB (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:272:29)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:144:28","level":"error","timestamp":"2020-05-29T14:02:22.152Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-29T14:02:38.101Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-29T14:02:38.113Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T04:17:12.424Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T04:17:12.436Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T04:27:09.776Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T04:27:09.787Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T04:29:53.996Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T04:29:54.010Z"}
+{"message":"Joi is not defined","stack":"ReferenceError: Joi is not defined\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/users.js:67:15\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at module.exports (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/middleware/auth.js:13:5)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:47:12)","level":"error","timestamp":"2020-05-30T04:34:41.223Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T04:35:10.857Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T04:35:10.869Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T04:35:43.237Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T04:35:43.248Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T04:41:05.451Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T04:41:05.462Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T04:52:52.279Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T04:52:52.292Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T04:53:16.627Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T04:53:16.638Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T04:53:27.759Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T04:53:27.771Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T05:27:02.548Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T05:27:02.564Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T05:28:43.296Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T05:28:43.310Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T05:59:41.599Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T05:59:41.613Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T06:03:48.993Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T06:03:49.007Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T06:05:21.385Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T06:05:21.400Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T06:07:11.247Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T06:07:11.260Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T06:07:55.600Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T06:07:55.615Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T06:52:07.579Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T06:52:07.593Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T06:58:05.864Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T06:58:05.875Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T07:00:27.309Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T07:00:27.320Z"}
+{"message":"connect ETIMEDOUT 13.49.22.0:443","stack":"Error: connect ETIMEDOUT 13.49.22.0:443\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16)","errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"13.49.22.0","port":443,"type":"FETCH","sourceUrl":"https://api.nodemailer.com/user","level":"error","timestamp":"2020-05-30T07:02:48.217Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T07:04:29.174Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T07:04:29.185Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T07:05:05.966Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T07:05:05.977Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T07:14:11.681Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T07:14:11.693Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T07:14:46.025Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T07:14:46.037Z"}
+{"message":"Cannot create property 'mailer' on string 'SMTP'","stack":"TypeError: Cannot create property 'mailer' on string 'SMTP'\n    at new Mail (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/nodemailer/lib/mailer/index.js:45:33)\n    at Object.module.exports.createTransport (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/nodemailer/lib/nodemailer.js:58:14)\n    at module.exports (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/utility/Mail.js:18:34)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/users.js:94:5","level":"error","timestamp":"2020-05-30T07:15:03.983Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T07:16:07.955Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T07:16:07.966Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T07:17:26.409Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T07:17:26.421Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T07:19:52.023Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T07:19:52.034Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T07:21:27.024Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T07:21:27.039Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T07:23:41.624Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T07:23:41.636Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T07:23:57.920Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T07:23:57.932Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T13:12:57.641Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T13:12:57.654Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-05-30T13:13:42.894Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-05-30T13:13:42.907Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-24T04:45:14.529Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-24T04:45:14.545Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-24T11:22:40.435Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-24T11:22:40.450Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-24T11:23:19.770Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-24T11:23:19.784Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-24T11:23:37.156Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-24T11:23:37.168Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-24T11:23:55.405Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-24T11:23:55.419Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-24T11:24:01.343Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-24T11:24:01.356Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-24T11:24:20.196Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-24T11:24:20.210Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-24T11:28:12.432Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-24T11:28:12.444Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-24T11:31:40.956Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-24T11:31:40.969Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T05:15:27.258Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T05:15:27.282Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T05:15:52.107Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T05:15:52.118Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T06:32:46.894Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T06:32:46.908Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T06:33:59.471Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T06:33:59.483Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T12:39:39.505Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T12:39:39.521Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T12:40:09.210Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T12:40:09.221Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T12:45:34.137Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T12:45:34.150Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T12:48:29.244Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T12:48:29.256Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T13:48:57.435Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T13:48:57.447Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T13:52:05.887Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T13:52:05.899Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T13:52:56.445Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T13:52:56.458Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T13:53:53.095Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T13:53:53.107Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-27T13:54:26.795Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-27T13:54:26.807Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T05:11:38.389Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T05:11:38.404Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T05:20:11.399Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T05:20:11.411Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T05:23:22.642Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T05:23:22.654Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T06:06:26.284Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T06:06:26.296Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T06:13:09.975Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T06:13:09.987Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T06:23:57.411Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T06:23:57.423Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T06:30:12.075Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T06:30:12.090Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T06:31:28.561Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T06:31:28.575Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T06:32:17.490Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T06:32:17.502Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T06:32:53.617Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T06:32:53.629Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T06:33:01.100Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T06:33:01.114Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T06:34:12.277Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T06:34:12.288Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T06:52:01.642Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T06:52:01.653Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-06-28T06:57:28.377Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-06-28T06:57:28.390Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:11.014Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:11.225Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:11.314Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:11.462Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:11.613Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:11.769Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:11.919Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:12.079Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:12.219Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:12.379Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:12.540Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:12.698Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:12.851Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:13.009Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:13.166Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:13.312Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:13.452Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:13.598Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:13.743Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:13.904Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:14.061Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:14.215Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:14.360Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:14.504Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:14.650Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:14.791Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:14.946Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:15.116Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:15.262Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:15.405Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:15.574Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:15.765Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:16.155Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:16.354Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:16.526Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:16.794Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:16.956Z"}
+{"message":"Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"","stack":"CastError: Cast to ObjectId failed for value \"null\" at path \"subject\" for model \"StudentSubjects\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)","name":"CastError","stringValue":"\"null\"","value":"null","path":"subject","reason":{},"level":"error","timestamp":"2020-06-28T07:43:17.112Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T03:45:04.506Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T03:45:04.521Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T10:54:35.037Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T10:54:35.051Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T10:56:35.224Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T10:56:35.237Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T10:58:00.720Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T10:58:00.735Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T11:03:23.160Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T11:03:23.172Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T11:06:28.774Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T11:06:28.786Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T11:07:45.136Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T11:07:45.149Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T11:08:25.676Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T11:08:25.692Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T12:52:54.138Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T12:52:54.152Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T12:53:39.125Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T12:53:39.136Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T12:55:17.302Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T12:55:17.318Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T12:57:59.137Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T12:57:59.149Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T12:59:17.522Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T12:59:17.535Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T13:02:27.993Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T13:02:28.005Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-08T13:13:58.830Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-08T13:13:58.844Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:01:51.180Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:01:51.201Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:11:28.730Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:11:28.746Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:17:49.881Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:17:49.895Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:18:26.846Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:18:26.858Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:19:15.405Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:19:15.417Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:26:09.045Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:26:09.058Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:26:31.491Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:26:31.508Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:26:47.982Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:26:47.993Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:27:35.141Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:27:35.154Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:28:12.901Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:28:12.914Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:29:51.420Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:29:51.432Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:30:51.657Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:30:51.671Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:30:53.413Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:30:53.426Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:32:04.624Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:32:04.639Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:32:41.909Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:32:41.921Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:33:14.449Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:33:14.462Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:34:03.352Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:34:03.363Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:35:49.823Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:35:49.834Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:37:29.893Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:37:29.905Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:38:42.447Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:38:42.464Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:39:58.642Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:39:58.657Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:42:40.661Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:42:40.674Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:43:08.632Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:43:08.644Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:45:01.651Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:45:01.664Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:46:33.489Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:46:33.504Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:47:05.816Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:47:05.828Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:47:50.854Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:47:50.866Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:48:35.992Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:48:36.006Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:50:04.866Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:50:04.880Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:50:42.440Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:50:42.452Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T10:57:44.928Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T10:57:44.945Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T11:27:53.586Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T11:27:53.600Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T11:32:15.368Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T11:32:15.381Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T11:33:04.901Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T11:33:04.913Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T11:34:52.863Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T11:34:52.878Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T11:42:49.601Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T11:42:49.613Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T11:47:49.409Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T11:47:49.426Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T11:49:41.874Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T11:49:41.889Z"}
+{"message":"Cannot access 'matchStudents' before initialization","stack":"ReferenceError: Cannot access 'matchStudents' before initialization\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:299:35\n    at Array.forEach (<anonymous>)\n    at checkDuplicateStudentClassInSameTime (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:297:65)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:167:35","level":"error","timestamp":"2020-07-09T11:49:46.313Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T11:50:12.781Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T11:50:12.797Z"}
+{"message":"Cannot read property 'length' of undefined","stack":"TypeError: Cannot read property 'length' of undefined\n    at checkDuplicateStudentClassInSameTime (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:305:35)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:167:35","level":"error","timestamp":"2020-07-09T11:50:16.830Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T11:50:46.994Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T11:50:47.006Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T12:01:51.010Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T12:01:51.023Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T12:02:20.808Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T12:02:20.820Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T12:42:54.734Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T12:42:54.749Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T12:44:50.651Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T12:44:50.668Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T12:45:39.899Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T12:45:39.915Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-09T12:47:47.271Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-09T12:47:47.291Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-11T04:46:49.917Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-11T04:46:49.932Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-11T05:03:54.254Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-11T05:03:54.267Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-11T05:05:45.433Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-11T05:05:45.445Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-11T05:07:56.721Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-11T05:07:56.733Z"}
+{"message":"Facility validation failed: department: Cast to ObjectId failed for value \"\" at path \"department\", subjectRequirement: Cast to ObjectId failed for value \"\" at path \"subjectRequirement\", subject: Cast to ObjectId failed for value \"\" at path \"subject\", lecturer: Cast to ObjectId failed for value \"\" at path \"lecturer\"","errors":{"department":{"stringValue":"\"\"","kind":"ObjectId","value":"","path":"department","reason":{},"message":"Cast to ObjectId failed for value \"\" at path \"department\"","name":"CastError"},"subjectRequirement":{"stringValue":"\"\"","kind":"ObjectId","value":"","path":"subjectRequirement","reason":{},"message":"Cast to ObjectId failed for value \"\" at path \"subjectRequirement\"","name":"CastError"},"subject":{"stringValue":"\"\"","kind":"ObjectId","value":"","path":"subject","reason":{},"message":"Cast to ObjectId failed for value \"\" at path \"subject\"","name":"CastError"},"lecturer":{"stringValue":"\"\"","kind":"ObjectId","value":"","path":"lecturer","reason":{},"message":"Cast to ObjectId failed for value \"\" at path \"lecturer\"","name":"CastError"}},"_message":"Facility validation failed","stack":"ValidationError: Facility validation failed: department: Cast to ObjectId failed for value \"\" at path \"department\", subjectRequirement: Cast to ObjectId failed for value \"\" at path \"subjectRequirement\", subject: Cast to ObjectId failed for value \"\" at path \"subject\", lecturer: Cast to ObjectId failed for value \"\" at path \"lecturer\"\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at model.$set (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:1238:12)\n    at model._handleIndex (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:978:14)\n    at model.$set (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:919:22)\n    at model.Document (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:136:12)\n    at model.Model (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/model.js:105:12)\n    at new model (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/model.js:4708:15)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/facilities.js:46:20\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","name":"ValidationError","level":"error","timestamp":"2020-07-11T05:08:29.246Z"}
+{"message":"Facility validation failed: subjectRequirement: Cast to ObjectId failed for value \"\" at path \"subjectRequirement\", subject: Cast to ObjectId failed for value \"\" at path \"subject\", lecturer: Cast to ObjectId failed for value \"\" at path \"lecturer\"","errors":{"subjectRequirement":{"stringValue":"\"\"","kind":"ObjectId","value":"","path":"subjectRequirement","reason":{},"message":"Cast to ObjectId failed for value \"\" at path \"subjectRequirement\"","name":"CastError"},"subject":{"stringValue":"\"\"","kind":"ObjectId","value":"","path":"subject","reason":{},"message":"Cast to ObjectId failed for value \"\" at path \"subject\"","name":"CastError"},"lecturer":{"stringValue":"\"\"","kind":"ObjectId","value":"","path":"lecturer","reason":{},"message":"Cast to ObjectId failed for value \"\" at path \"lecturer\"","name":"CastError"}},"_message":"Facility validation failed","stack":"ValidationError: Facility validation failed: subjectRequirement: Cast to ObjectId failed for value \"\" at path \"subjectRequirement\", subject: Cast to ObjectId failed for value \"\" at path \"subject\", lecturer: Cast to ObjectId failed for value \"\" at path \"lecturer\"\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at model.$set (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:1238:12)\n    at model._handleIndex (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:978:14)\n    at model.$set (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:919:22)\n    at model.Document (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:136:12)\n    at model.Model (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/model.js:105:12)\n    at new model (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/model.js:4708:15)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/facilities.js:46:20\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","name":"ValidationError","level":"error","timestamp":"2020-07-11T05:12:06.251Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-11T05:17:09.622Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-11T05:17:09.634Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-11T06:06:59.810Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-11T06:06:59.825Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-11T06:49:23.645Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-11T06:49:23.660Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-12T05:27:22.653Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-12T05:27:22.676Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-13T00:44:31.059Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-13T00:44:31.075Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-13T00:46:44.106Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-13T00:46:44.122Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-13T00:47:34.576Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-13T00:47:34.587Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-16T10:48:57.114Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-16T10:48:57.130Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-16T12:14:42.143Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-16T12:14:42.156Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-16T12:16:12.473Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-16T12:16:12.487Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-16T12:17:18.632Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-16T12:17:18.644Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-16T12:25:13.447Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-16T12:25:13.459Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-16T12:27:03.332Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-16T12:27:03.348Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-16T12:27:22.917Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-16T12:27:22.929Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-16T12:27:25.299Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-16T12:27:25.314Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-16T12:44:05.213Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-16T12:44:05.229Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-16T12:48:28.378Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-16T12:48:28.391Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-18T04:11:56.594Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-18T04:11:56.610Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-19T11:23:04.965Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-19T11:23:04.981Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-25T03:07:17.038Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-25T03:07:17.052Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-25T05:48:37.864Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-25T05:48:37.882Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-25T08:44:23.188Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-25T08:44:23.200Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T07:10:56.141Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T07:10:56.157Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T07:16:27.421Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T07:16:27.432Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T07:16:57.404Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T07:16:57.417Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T10:43:38.417Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T10:43:38.430Z"}
+{"message":"Cast to ObjectId failed for value \"Room 2\" at path \"facility\" for model \"Timetable\"","stack":"CastError: Cast to ObjectId failed for value \"Room 2\" at path \"facility\" for model \"Timetable\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","name":"CastError","stringValue":"\"Room 2\"","value":"Room 2","path":"facility","reason":{},"level":"error","timestamp":"2020-07-26T10:44:24.863Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T11:06:20.366Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T11:06:20.380Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T11:07:34.380Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T11:07:34.398Z"}
+{"message":"Cast to ObjectId failed for value \"rm\" at path \"facility\" for model \"Timetable\"","stack":"CastError: Cast to ObjectId failed for value \"rm\" at path \"facility\" for model \"Timetable\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","name":"CastError","stringValue":"\"rm\"","value":"rm","path":"facility","reason":{},"level":"error","timestamp":"2020-07-26T11:08:14.653Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T11:18:21.869Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T11:18:21.881Z"}
+{"message":"Cast to ObjectId failed for value \"gg\" at path \"facility\" for model \"Timetable\"","stack":"CastError: Cast to ObjectId failed for value \"gg\" at path \"facility\" for model \"Timetable\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","name":"CastError","stringValue":"\"gg\"","value":"gg","path":"facility","reason":{},"level":"error","timestamp":"2020-07-26T11:22:00.963Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T11:24:24.473Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T11:24:24.485Z"}
+{"message":"Cast to ObjectId failed for value \"gg\" at path \"facility\" for model \"Timetable\"","stack":"CastError: Cast to ObjectId failed for value \"gg\" at path \"facility\" for model \"Timetable\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","name":"CastError","stringValue":"\"gg\"","value":"gg","path":"facility","reason":{},"level":"error","timestamp":"2020-07-26T11:24:30.565Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T11:24:48.491Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T11:24:48.502Z"}
+{"message":"Cast to ObjectId failed for value \"gg\" at path \"facility\" for model \"Timetable\"","stack":"CastError: Cast to ObjectId failed for value \"gg\" at path \"facility\" for model \"Timetable\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","name":"CastError","stringValue":"\"gg\"","value":"gg","path":"facility","reason":{},"level":"error","timestamp":"2020-07-26T11:24:53.876Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T11:25:06.394Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T11:25:06.412Z"}
+{"message":"Cast to ObjectId failed for value \"gg\" at path \"facility\" for model \"Timetable\"","stack":"CastError: Cast to ObjectId failed for value \"gg\" at path \"facility\" for model \"Timetable\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","name":"CastError","stringValue":"\"gg\"","value":"gg","path":"facility","reason":{},"level":"error","timestamp":"2020-07-26T11:25:10.934Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T11:25:28.430Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T11:25:28.442Z"}
+{"message":"Cast to ObjectId failed for value \"gg\" at path \"facility\" for model \"Timetable\"","stack":"CastError: Cast to ObjectId failed for value \"gg\" at path \"facility\" for model \"Timetable\"\n    at new CastError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/cast.js:29:11)\n    at model.Query.exec (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4341:21)\n    at model.Query.Query.then (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/query.js:4433:15)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","name":"CastError","stringValue":"\"gg\"","value":"gg","path":"facility","reason":{},"level":"error","timestamp":"2020-07-26T11:25:32.248Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T11:27:04.178Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T11:27:04.190Z"}
+{"message":"Timetable validation failed: sections.0.facility: Facility cannot be empty., sections.0.lecturerOne: Path `lecturerOne` is required.","errors":{"sections.0.facility":{"message":"Facility cannot be empty.","name":"ValidatorError","properties":{"message":"Facility cannot be empty.","type":"required","path":"facility"},"kind":"required","path":"facility"},"sections.0.lecturerOne":{"message":"Path `lecturerOne` is required.","name":"ValidatorError","properties":{"message":"Path `lecturerOne` is required.","type":"required","path":"lecturerOne"},"kind":"required","path":"lecturerOne"}},"_message":"Timetable validation failed","stack":"ValidationError: Timetable validation failed: sections.0.facility: Facility cannot be empty., sections.0.lecturerOne: Path `lecturerOne` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at EmbeddedDocument.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/types/embedded.js:291:29)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-07-26T11:28:36.918Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:04:42.550Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:04:42.562Z"}
+{"message":"Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.","errors":{"name":{"message":"Path `name` is required.","name":"ValidatorError","properties":{"message":"Path `name` is required.","type":"required","path":"name"},"kind":"required","path":"name"},"customLecturerId":{"message":"Path `customLecturerId` is required.","name":"ValidatorError","properties":{"message":"Path `customLecturerId` is required.","type":"required","path":"customLecturerId"},"kind":"required","path":"customLecturerId"}},"_message":"Lecturer validation failed","stack":"ValidationError: Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-07-26T12:04:51.695Z"}
+{"message":"Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.","errors":{"name":{"message":"Path `name` is required.","name":"ValidatorError","properties":{"message":"Path `name` is required.","type":"required","path":"name"},"kind":"required","path":"name"},"customLecturerId":{"message":"Path `customLecturerId` is required.","name":"ValidatorError","properties":{"message":"Path `customLecturerId` is required.","type":"required","path":"customLecturerId"},"kind":"required","path":"customLecturerId"}},"_message":"Lecturer validation failed","stack":"ValidationError: Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-07-26T12:06:22.942Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:07:12.625Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:07:12.637Z"}
+{"message":"Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.","errors":{"name":{"message":"Path `name` is required.","name":"ValidatorError","properties":{"message":"Path `name` is required.","type":"required","path":"name"},"kind":"required","path":"name"},"customLecturerId":{"message":"Path `customLecturerId` is required.","name":"ValidatorError","properties":{"message":"Path `customLecturerId` is required.","type":"required","path":"customLecturerId"},"kind":"required","path":"customLecturerId"}},"_message":"Lecturer validation failed","stack":"ValidationError: Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-07-26T12:07:16.946Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:08:19.065Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:08:19.076Z"}
+{"message":"Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.","errors":{"name":{"message":"Path `name` is required.","name":"ValidatorError","properties":{"message":"Path `name` is required.","type":"required","path":"name"},"kind":"required","path":"name"},"customLecturerId":{"message":"Path `customLecturerId` is required.","name":"ValidatorError","properties":{"message":"Path `customLecturerId` is required.","type":"required","path":"customLecturerId"},"kind":"required","path":"customLecturerId"}},"_message":"Lecturer validation failed","stack":"ValidationError: Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-07-26T12:08:23.971Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:12:43.483Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:12:43.494Z"}
+{"message":"Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.","errors":{"name":{"message":"Path `name` is required.","name":"ValidatorError","properties":{"message":"Path `name` is required.","type":"required","path":"name"},"kind":"required","path":"name"},"customLecturerId":{"message":"Path `customLecturerId` is required.","name":"ValidatorError","properties":{"message":"Path `customLecturerId` is required.","type":"required","path":"customLecturerId"},"kind":"required","path":"customLecturerId"}},"_message":"Lecturer validation failed","stack":"ValidationError: Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-07-26T12:12:55.384Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:13:45.878Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:13:45.890Z"}
+{"message":"Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.","errors":{"name":{"message":"Path `name` is required.","name":"ValidatorError","properties":{"message":"Path `name` is required.","type":"required","path":"name"},"kind":"required","path":"name"},"customLecturerId":{"message":"Path `customLecturerId` is required.","name":"ValidatorError","properties":{"message":"Path `customLecturerId` is required.","type":"required","path":"customLecturerId"},"kind":"required","path":"customLecturerId"}},"_message":"Lecturer validation failed","stack":"ValidationError: Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-07-26T12:13:50.865Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:16:35.575Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:16:35.587Z"}
+{"message":"Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.","errors":{"name":{"message":"Path `name` is required.","name":"ValidatorError","properties":{"message":"Path `name` is required.","type":"required","path":"name"},"kind":"required","path":"name"},"customLecturerId":{"message":"Path `customLecturerId` is required.","name":"ValidatorError","properties":{"message":"Path `customLecturerId` is required.","type":"required","path":"customLecturerId"},"kind":"required","path":"customLecturerId"}},"_message":"Lecturer validation failed","stack":"ValidationError: Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-07-26T12:16:41.170Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:17:21.881Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:17:21.893Z"}
+{"message":"Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.","errors":{"name":{"message":"Path `name` is required.","name":"ValidatorError","properties":{"message":"Path `name` is required.","type":"required","path":"name"},"kind":"required","path":"name"},"customLecturerId":{"message":"Path `customLecturerId` is required.","name":"ValidatorError","properties":{"message":"Path `customLecturerId` is required.","type":"required","path":"customLecturerId"},"kind":"required","path":"customLecturerId"}},"_message":"Lecturer validation failed","stack":"ValidationError: Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-07-26T12:17:26.450Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:17:48.871Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:17:48.883Z"}
+{"message":"Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.","errors":{"name":{"message":"Path `name` is required.","name":"ValidatorError","properties":{"message":"Path `name` is required.","type":"required","path":"name"},"kind":"required","path":"name"},"customLecturerId":{"message":"Path `customLecturerId` is required.","name":"ValidatorError","properties":{"message":"Path `customLecturerId` is required.","type":"required","path":"customLecturerId"},"kind":"required","path":"customLecturerId"}},"_message":"Lecturer validation failed","stack":"ValidationError: Lecturer validation failed: name: Path `name` is required., customLecturerId: Path `customLecturerId` is required.\n    at new ValidationError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2563:32)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/document.js:2385:17\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/mongoose/lib/schematype.js:1181:9\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"ValidationError","level":"error","timestamp":"2020-07-26T12:17:53.502Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:20:50.417Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:20:50.428Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:23:51.003Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:23:51.016Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:24:58.330Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:24:58.343Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T12:26:34.434Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T12:26:34.446Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T13:06:20.600Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T13:06:20.612Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-07-26T13:07:23.870Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-07-26T13:07:23.882Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T05:22:05.451Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T05:22:05.476Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T06:29:32.100Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T06:29:32.125Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T06:32:27.492Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T06:32:27.517Z"}
+{"message":"Cannot read property 'department' of null","stack":"TypeError: Cannot read property 'department' of null\n    at validateSectionsInDB (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:458:54)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:81:28","level":"error","timestamp":"2020-09-06T06:32:36.952Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T06:35:28.831Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T06:35:28.855Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T06:57:17.280Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T06:57:17.303Z"}
+{"message":"Cannot read property 'lecturerOne' of undefined","stack":"TypeError: Cannot read property 'lecturerOne' of undefined\n    at validateSectionsInDB (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:463:54)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:81:28","level":"error","timestamp":"2020-09-06T06:57:32.024Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T06:59:41.366Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T06:59:41.391Z"}
+{"message":"Cannot read property 'lecturerOne' of undefined","stack":"TypeError: Cannot read property 'lecturerOne' of undefined\n    at validateSectionsInDB (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:463:54)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:81:28","level":"error","timestamp":"2020-09-06T06:59:47.208Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T07:00:23.693Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T07:00:23.736Z"}
+{"message":"Cannot read property 'lecturerOne' of undefined","stack":"TypeError: Cannot read property 'lecturerOne' of undefined\n    at validateSectionsInDB (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:463:54)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:81:28","level":"error","timestamp":"2020-09-06T07:00:28.274Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T07:09:34.060Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T07:09:34.085Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T07:12:02.648Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T07:12:02.672Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T07:20:18.865Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T07:20:18.888Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:33:44.817Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:33:44.841Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:39:18.399Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:39:18.426Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:41:26.924Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:41:26.949Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:42:09.583Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:42:09.607Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:42:37.571Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:42:37.597Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:43:15.820Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:43:15.845Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:45:04.430Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:45:04.454Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:46:03.344Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:46:03.368Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:48:11.408Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:48:11.436Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:50:14.625Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:50:14.650Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:51:51.434Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:51:51.459Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T12:56:03.782Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T12:56:03.807Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T13:01:12.396Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T13:01:12.426Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T13:01:21.088Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T13:01:21.114Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T13:01:35.072Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T13:01:35.095Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T13:13:49.451Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T13:13:49.476Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T13:18:46.696Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T13:18:46.721Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T13:20:18.648Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T13:20:18.672Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T13:22:33.213Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T13:22:33.237Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T13:35:12.071Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T13:35:12.094Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-06T13:52:03.508Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-06T13:52:03.533Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T10:24:02.347Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T10:24:02.373Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:07:39.225Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:07:39.250Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:08:12.603Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:08:12.627Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:10:21.309Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:10:21.333Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:27:24.940Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:27:24.965Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:27:50.840Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:27:50.864Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:32:57.214Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:32:57.239Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:44:30.413Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:44:30.438Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:44:40.771Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:44:40.795Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:46:51.089Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:46:51.115Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:47:57.578Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:47:57.602Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:48:07.085Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:48:07.109Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:48:11.770Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:48:11.794Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:48:43.828Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:48:43.852Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:52:17.979Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:52:18.002Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:52:27.454Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:53:02.003Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:53:02.029Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:54:23.773Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:54:23.800Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:56:26.057Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:56:26.083Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:57:21.973Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:57:21.998Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:57:49.770Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:57:49.795Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T13:58:05.496Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T13:58:05.521Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:02:49.556Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:02:49.582Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:03:58.269Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:03:58.295Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:04:17.795Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:04:17.822Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:04:49.103Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:04:49.129Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:15:56.854Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:15:56.883Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:19:58.705Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:19:58.731Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:22:33.028Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:22:33.054Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:23:03.576Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:23:03.603Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:31:54.256Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:31:54.282Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:32:22.500Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:32:22.526Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:33:24.043Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:33:24.069Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:33:58.900Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:33:58.926Z"}
+{"message":"Configuration property \"requiresAuth\" is not defined","stack":"Error: Configuration property \"requiresAuth\" is not defined\n    at Config.get (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/config/lib/config.js:182:11)\n    at module.exports (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/middleware/auth.js:5:15)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:317:13)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/startup/routes.js:31:9\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:317:13)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at serveStatic (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/serve-static/index.js:75:16)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:317:13)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:317:13)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/raw-body/index.js:224:16)\n    at done (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:315:20)\n    at endReadableNT (_stream_readable.js:1224:12)\n    at processTicksAndRejections (internal/process/task_queues.js:84:21)","level":"error","timestamp":"2020-09-17T14:33:58.970Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:34:12.891Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:34:12.917Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:35:08.430Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:35:08.456Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:35:18.732Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:35:18.758Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:35:29.531Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:35:29.557Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:38:26.557Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:38:40.653Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:38:40.679Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:40:27.771Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:40:27.797Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:42:48.295Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:42:48.322Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:42:59.814Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:42:59.839Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:43:21.273Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:43:21.300Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:51:38.862Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:51:38.888Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:54:22.049Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:55:29.518Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:58:08.881Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:58:59.459Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:58:59.486Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:59:19.977Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T14:59:35.012Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T14:59:35.040Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T15:00:02.510Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-17T15:00:02.539Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-17T15:00:12.418Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T04:24:55.756Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T04:38:35.707Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T04:39:45.043Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T04:40:08.822Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T04:42:29.257Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T04:45:02.657Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T04:47:46.807Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T04:53:38.277Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:35:33.403Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:35:49.057Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:36:26.111Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:38:04.843Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:39:01.706Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:41:11.787Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:42:15.252Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:53:13.860Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:57:24.070Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:58:07.843Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:59:06.559Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T05:59:22.434Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:00:04.796Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:01:41.972Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:02:03.052Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:02:03.078Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:02:30.850Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:02:30.877Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:02:56.304Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:02:56.330Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:03:36.548Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:03:47.119Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:03:47.145Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:08:52.730Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:10:05.175Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:10:58.609Z"}
+{"message":"Cannot read property '_id' of undefined","stack":"TypeError: Cannot read property '_id' of undefined\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/users.js:22:47\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at module.exports (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/middleware/auth.js:5:43)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:317:13)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/startup/routes.js:31:9\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:317:13)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at SendStream.error (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/serve-static/index.js:121:7)\n    at SendStream.emit (events.js:315:20)\n    at SendStream.error (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:270:17)\n    at SendStream.onStatError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:421:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:735:16)\n    at onstat (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:724:14)\n    at FSReqCallback.oncomplete (fs.js:175:21)","level":"error","timestamp":"2020-09-19T06:21:27.015Z"}
+{"message":"Cannot read property '_id' of undefined","stack":"TypeError: Cannot read property '_id' of undefined\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/users.js:22:47\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at module.exports (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/middleware/auth.js:5:43)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:317:13)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/startup/routes.js:31:9\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:317:13)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at SendStream.error (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/serve-static/index.js:121:7)\n    at SendStream.emit (events.js:315:20)\n    at SendStream.error (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:270:17)\n    at SendStream.onStatError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:421:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:735:16)\n    at onstat (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:724:14)\n    at FSReqCallback.oncomplete (fs.js:175:21)","level":"error","timestamp":"2020-09-19T06:22:13.638Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:25:55.437Z"}
+{"message":"Cannot read property '_id' of undefined","stack":"TypeError: Cannot read property '_id' of undefined\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/users.js:22:47\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at module.exports (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/middleware/auth.js:5:43)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:317:13)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/startup/routes.js:31:9\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:317:13)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at SendStream.error (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/serve-static/index.js:121:7)\n    at SendStream.emit (events.js:315:20)\n    at SendStream.error (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:270:17)\n    at SendStream.onStatError (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:421:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:735:16)\n    at onstat (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/send/index.js:724:14)\n    at FSReqCallback.oncomplete (fs.js:175:21)","level":"error","timestamp":"2020-09-19T06:25:59.178Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:30:05.586Z"}
+{"message":"Cannot read property '_id' of undefined","stack":"TypeError: Cannot read property '_id' of undefined\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/users.js:22:47\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at module.exports (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/middleware/auth.js:5:43)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:47:12)","level":"error","timestamp":"2020-09-19T06:30:08.630Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:30:51.576Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:31:56.200Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:32:18.917Z"}
+{"message":"Cannot read property '_id' of undefined","stack":"TypeError: Cannot read property '_id' of undefined\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/users.js:22:47\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at module.exports (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/middleware/auth.js:5:43)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/node_modules/express/lib/router/index.js:47:12)","level":"error","timestamp":"2020-09-19T06:32:32.637Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:33:26.405Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:33:26.429Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:33:45.866Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:33:45.891Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:44:57.244Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:44:57.269Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:46:39.348Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:46:39.374Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:50:44.726Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:50:44.753Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:52:43.602Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:52:43.628Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:56:02.073Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:56:02.099Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T06:58:29.653Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T06:58:29.680Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T07:00:17.742Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T07:00:17.768Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T07:01:11.038Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T07:01:11.064Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T07:08:12.421Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T07:08:12.448Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T07:49:39.095Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T07:49:39.121Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T07:53:28.075Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T07:53:28.108Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T07:59:07.628Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T07:59:07.663Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:00:06.419Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T08:00:06.445Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:03:11.977Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T08:03:12.003Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:07:29.328Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-19T08:07:29.354Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:09:07.800Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:11:04.092Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:12:53.622Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:13:43.142Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:14:16.625Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:15:37.104Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:26:09.642Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:30:05.373Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T08:37:02.883Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T11:52:09.324Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T11:52:32.174Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T12:05:54.266Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T12:06:41.948Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T12:32:48.825Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T12:47:12.854Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T12:49:48.833Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T12:52:00.328Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T12:58:24.242Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T12:59:56.020Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T13:01:00.290Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-19T13:02:37.178Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T04:48:57.713Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T04:50:12.198Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T05:11:02.164Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T05:13:34.972Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:17:05.876Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:17:31.734Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:17:43.294Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:23:58.296Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:24:13.585Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:27:20.255Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:30:24.858Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:35:01.308Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:35:40.337Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:47:09.331Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:49:20.062Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:49:54.144Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T06:53:41.982Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T07:00:52.457Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T07:01:36.199Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T07:23:53.095Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T07:24:52.183Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T07:28:16.992Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T07:28:46.400Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T07:32:29.147Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T07:34:26.265Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T07:34:34.181Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T07:34:50.222Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T07:38:55.282Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T08:05:31.668Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T08:06:41.023Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T08:07:10.382Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T08:07:38.716Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T08:08:54.174Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T08:11:50.746Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T08:14:27.238Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T08:14:59.013Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T08:19:47.420Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T08:20:56.911Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T08:23:00.844Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T13:28:08.148Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T13:28:55.081Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T13:29:55.530Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T13:30:31.514Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T13:34:40.339Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T13:35:51.404Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T13:39:02.170Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T13:41:18.772Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T13:42:13.961Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:10:42.430Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:13:23.552Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:13:52.793Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:15:20.951Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:15:54.174Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:17:12.658Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:20:09.860Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:28:14.223Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:28:40.771Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:29:11.278Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:37:05.481Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:38:02.578Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:38:21.198Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:42:23.948Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:44:24.391Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:47:39.980Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:50:47.018Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T14:53:02.531Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-20T15:04:26.218Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T04:45:27.059Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T04:52:38.626Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T04:53:57.170Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T04:57:06.288Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T04:57:47.117Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T04:58:31.610Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T04:59:22.392Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:01:34.477Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:02:38.270Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:04:48.447Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:32:19.470Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:37:05.582Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:38:45.954Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:39:18.527Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:40:04.295Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:40:54.721Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:54:18.899Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:54:57.475Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T05:57:23.574Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T06:40:07.234Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T06:40:43.711Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T06:41:34.073Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T06:42:56.459Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T06:43:50.987Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T06:44:09.783Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T06:45:18.231Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T06:46:40.565Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T06:47:31.220Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T06:52:02.222Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T06:53:36.782Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:11:54.496Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:22:07.686Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:22:59.883Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:25:09.706Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:27:06.683Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:27:41.125Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:28:36.191Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:30:23.313Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:31:54.788Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:32:53.217Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:34:37.600Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T07:37:16.899Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T08:02:41.861Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-26T08:02:41.886Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T08:03:49.280Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-26T08:03:49.306Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T08:06:40.261Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-26T08:06:40.287Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T08:07:04.559Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-26T08:07:04.585Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T08:08:13.064Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2020-09-26T08:08:13.088Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T08:08:31.554Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T13:04:35.446Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T13:09:48.880Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-09-26T13:10:13.906Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-18T04:40:10.206Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-18T06:00:20.587Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-23T08:51:29.798Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-28T05:46:33.676Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-28T06:17:59.063Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T03:07:10.601Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T03:18:34.358Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T04:44:08.646Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T04:58:24.319Z"}
+{"message":"section.days is not iterable","stack":"TypeError: section.days is not iterable\n    at checkDuplicateStudentClassInSameTime (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:390:35)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:138:35","level":"error","timestamp":"2020-10-30T05:01:56.327Z"}
+{"message":"section.days is not iterable","stack":"TypeError: section.days is not iterable\n    at checkDuplicateStudentClassInSameTime (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:390:35)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:138:35","level":"error","timestamp":"2020-10-30T05:16:34.509Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T05:18:23.481Z"}
+{"message":"section.days is not iterable","stack":"TypeError: section.days is not iterable\n    at checkDuplicateStudentClassInSameTime (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:390:35)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:138:35","level":"error","timestamp":"2020-10-30T05:18:28.497Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T05:20:04.468Z"}
+{"message":"section.days is not iterable","stack":"TypeError: section.days is not iterable\n    at checkDuplicateStudentClassInSameTime (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:390:35)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:138:35","level":"error","timestamp":"2020-10-30T05:20:20.808Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T05:33:16.350Z"}
+{"message":"Cannot read property 'startTimeKey' of null","stack":"TypeError: Cannot read property 'startTimeKey' of null\n    at checkDuplicateStudentClassInSameTime (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:388:35)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:138:35","level":"error","timestamp":"2020-10-30T05:33:33.054Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T05:36:57.060Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T05:39:33.938Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T05:46:33.260Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T05:47:36.692Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T06:28:45.648Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T06:30:24.736Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T06:46:48.713Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T06:48:05.284Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T06:55:26.405Z"}
+{"message":"Cannot read property 'toString' of undefined","stack":"TypeError: Cannot read property 'toString' of undefined\n    at checkDuplicateStudentClassInSameTime (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:420:58)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:82:35","level":"error","timestamp":"2020-10-30T11:00:49.988Z"}
+{"message":"Cannot read property 'toString' of undefined","stack":"TypeError: Cannot read property 'toString' of undefined\n    at checkDuplicateStudentClassInSameTime (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:420:58)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:82:35","level":"error","timestamp":"2020-10-30T11:02:56.653Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:04:07.152Z"}
+{"message":"Cannot read property 'toString' of undefined","stack":"TypeError: Cannot read property 'toString' of undefined\n    at checkDuplicateStudentClassInSameTime (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:422:58)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:82:35","level":"error","timestamp":"2020-10-30T11:04:11.795Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:08:47.981Z"}
+{"message":"Cannot read property 'toString' of undefined","stack":"TypeError: Cannot read property 'toString' of undefined\n    at checkDuplicateStudentClassInSameTime (/Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:423:62)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n    at async /Users/billalhossain/Documents/server/public/jamee/Timetabling-API/routes/timetables.js:82:35","level":"error","timestamp":"2020-10-30T11:08:54.968Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:09:35.849Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:23:51.670Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:29:18.228Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:29:19.912Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:30:07.120Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:32:25.084Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:32:53.494Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:33:48.075Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:39:10.653Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:50:49.647Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:51:06.971Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:52:43.681Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:53:03.970Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:53:50.092Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:57:29.823Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T11:58:33.101Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T12:01:03.062Z"}
+{"level":"info","message":"Listening on port 3400","timestamp":"2020-10-30T12:03:02.790Z"}
